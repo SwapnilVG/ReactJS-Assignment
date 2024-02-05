@@ -2,6 +2,8 @@
 
 This is a simple counter application implemented using React. It allows users to increment and decrement a counter value. However, decrementing is prevented when the counter reaches zero to avoid negative values.
 
+## [Counter App](https://65c0af6792a9331628b4b2c1--hilarious-starburst-373a2d.netlify.app/)
+
 ## Challenges Faced
 - **State Management**: Utilizing React's useState hook to manage the counter state.
 - **Conditional Decrement**: Implementing logic to prevent the counter from going negative.
