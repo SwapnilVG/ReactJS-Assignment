@@ -1,6 +1,8 @@
-# Instagram Clone
+# Instagram Clone login/signup
 
 This is a simple Instagram login/signup form implemented using React. It allows users to switch between the login and signup forms by clicking on the "Log in" or "Sign up" buttons respectively. The form includes input fields for phone number, email, full name, and password.
+
+## [Instagram Clone link](https://65c0b312f555901aa948ce84--nimble-cobbler-95cd40.netlify.app/)
 
 ## Challenges Faced
 - **Styling**: Ensuring the layout and styling of the form elements were visually appealing and responsive.
