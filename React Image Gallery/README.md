@@ -52,6 +52,7 @@ Open your browser and navigate to  http://localhost:5173/ to view the applicatio
 
 
 ## Folder Structure
+```bash
 react-gallery-image-app/
 │
 ├── public/
