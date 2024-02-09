@@ -31,22 +31,22 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/SwapnilVG/ReactJS-Assignment.git
+   ```bash
+   git clone https://github.com/SwapnilVG/ReactJS-Assignment.git
 
 2. Navigate into the project directory:
 
-```bash
-cd React Image Gallery
+   ```bash
+   cd React Image Gallery
 
 3. Install dependencies:
 
-```bash 
-npm install
+   ```bash 
+   npm install
 
 4. Start the development server:
-```bash
-npm run dev
+   ```bash
+   npm run dev
 
 Open your browser and navigate to  http://localhost:5173/ to view the application.
 
