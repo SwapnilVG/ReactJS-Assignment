@@ -1,5 +1,5 @@
 # GitHub User Search
-
+[Project link](https://65d1fda8026f8652cf93b135--magnificent-sfogliatella-873084.netlify.app/)
 ## Description
 This React application allows users to search for GitHub users based on their username. It fetches user data from the GitHub API and displays their avatars along with their login IDs.
 
